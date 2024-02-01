@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="Site GTA V - RockstarGames" src="./src/assets/img_cardapio.png" width="100%">
+  <img alt="Cardapio Digital" src="./src/assets/img_cardapio.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
